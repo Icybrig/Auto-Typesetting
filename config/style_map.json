@@ -1,0 +1,24 @@
+{
+  "paragraph_styles": {
+    "Heading 1":       "Chapter Title",
+    "Heading 2":       "Section Head",
+    "Heading 3":       "Sub-Head",
+    "Heading 4":       "Sub-Sub-Head",
+    "Heading 5":       "Sub-Sub-Sub-Head",
+    "Heading 6":       "Sub-Sub-Sub-Sub-Head",
+    "Normal":          "Body Text",
+    "Body Text":       "Body Text",
+    "Block Quote":     "Extract",
+    "List Paragraph":  "Body Text",
+    "toc 1":           "Body Text",
+    "toc 2":           "Body Text",
+    "toc 3":           "Body Text"
+  },
+  "character_styles":  {
+    "Strong":               "Bold",
+    "Emphasis":             "Italic",
+    "footnote reference":   "Bold",
+    "Hyperlink":            "Italic"
+  },
+  "fallback_paragraph_style": "Body Text"
+}
